@@ -4,11 +4,11 @@ title: "0"
 title2: "abfuhr" # default: ""
 description: "Mit ganz viel Liebe und wirklich unfassbar wenig Skill."
 url: http://0abfuhr.github.io/ # site url
-baseurl: http://0abfuhr.github.io/ # apply repo name if use it under gh-pages branch
+baseurl: 0abfuhr # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/arduqq/0abfuhr.github.io
+repo: http://github.com/arduqq/0abfuhr
 disqus_shortname: "arduqq"
 twitter_username: "arduuq"
 comments: false
