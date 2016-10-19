@@ -20,6 +20,6 @@ Im Laufe der Zeit probierte ich mich anderen Aufgaben. So habe ich ein etwas ver
 Weiterhin arbeitete ich an einem einfachen Supersampling-Algorithmus für der Renderer und war erstaunt wie wichtig es ist seine Programme performant zu gestalten. Das Anti-Aliasing und die Box-Intersection haben das Programm dermaßen verlangsamt, dass wir bei einer recht ausgelasteten Szene fast 20 Minuten auf ein vollständiges Ergebnis warten mussten. Es war dennoch beeindruckend!
 Rund um war dieses ganze Projekt für mich ein Indiz darauf, dass die Arbeit in Gruppen durchaus Spaß machen könnte, wenn die Zwischenmenschlichkeit in keinsterweise zu Schaden kommt. Zusammen an komplizierten Funktionen zu sitzen und zu grübeln ist spannend und schweißt das doch zusammen. Das Gefühl etwas zu schreiben und etwas anderes als Testcases oder irgendwelcge Werte zu sehen ist überragend und motviert nur noch mehr sich mit solchen Themengebieten auseinander zu setzen. Ich bin mehr als gespannt auf kommende Projekte in etwas anderer Gruppenkonstellation und weiß jetzt eher auf was man schauen sollte, wenn man größere Vorhaben angeht.
 
-**Unser Endprodukt**:[Raytracer auf GitHub](https://github.com/Arduqq/Retresa)
+**Unser Endprodukt**: [Raytracer auf GitHub](https://github.com/Arduqq/Retresa)
 
 Cheers
