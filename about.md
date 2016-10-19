@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+Die **0abfuhr** ist ein kleiner Blog auf dem ich für mich selbst dokumentiere, wie weit ich in meinem Studium fortgeschritten bin. Wie viel habe ich gelernt? Was habe ich programmiert? Welche Konzepte habe ich mir überlegt? Ein Blog zur Selbstreflexion!
